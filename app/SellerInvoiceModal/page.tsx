@@ -1,3 +1,4 @@
+"use client";
 import { API_KEY } from '@/components/requestsHandler';
 import { Host_Url } from '@/components/requestsHandler/request';
 import { useWallet } from '@solana/wallet-adapter-react';
